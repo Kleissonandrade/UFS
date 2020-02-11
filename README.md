@@ -11,18 +11,18 @@
 
 teste instalação
 
-# Conectando ao Banco de dados
+## Conectando ao Banco de dados
 
 conexão
 
 
-# Carregando dados
+## Carregando dados
 
 carragar
 
-# Gerando Gráficos
+## Gerando Gráficos
 
 Gerar
 
-# Exportando Gráficos
+## Exportando Gráficos
 Exportar
