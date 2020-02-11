@@ -10,7 +10,7 @@
 
 ## Instalação
 
-  O Power BI é uma ferramenta fornecida pela Microsoft e somente pode ser instalada na plataforma Windows. Podendo ser baixada no link:  
+  O Power BI é uma ferramenta fornecida pela Microsoft e somente pode ser instalada na plataforma Windows. Podendo ser baixada através do link:  
 
 
 
