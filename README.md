@@ -7,4 +7,5 @@
 |doie    | tere  |uhuhy  |
 
 
-![Cat](https://raw.githubusercontent.com/paulmelnikow/zsh-startup-timer/3923c60fc66d4223ccf063d169ccf2ff167b1270/cat.png)
+
+https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png
