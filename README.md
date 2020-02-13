@@ -54,11 +54,11 @@
 ![installl-6](/imagens/obter-dados-4.png)
 
 
-## Carregando dados
+### Carregando dados
 
 ![instaall-6](/imagens/obter-dados-5.png)
 
-[instaall-6](/imagens/obter-dados-6.png)
+[instaall-6](/imagens/obter-home.png)
 
 [instaall-6](/imagens/obter-dados-7.png)
 
@@ -66,7 +66,7 @@
 
 
 
-carragar
+
 
 ## Gerando Gráficos
 
