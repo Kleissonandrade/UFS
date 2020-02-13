@@ -104,5 +104,5 @@ Segue abaixo a demonstrando como exportar graficos gerados no PowerBI.
 
 ![exportar-1](/imagens/exportar.png)
 
-Exemplo de exortação em PDF.
+Exemplo de exportação em PDF.
 ![exportar-2](/imagens/pdf-export.png)
