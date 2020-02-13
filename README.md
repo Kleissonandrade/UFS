@@ -1,11 +1,11 @@
 # Power BI
 
-    O Power BI é um serviço de análise de negócios da Microsoft com objetivo de fornecer uma interface interativa de business intelligence com layout simples e de fácil manipulação para seus usuários.
+  O Power BI é um serviço de análise de negócios da Microsoft com objetivo de fornecer uma interface interativa de business intelligence com layout simples e de fácil manipulação para seus usuários.
 
 ## Instalação
 
-    O Power BI é uma ferramenta fornecida pela Microsoft e somente pode ser instalada na plataforma Windows. Podendo ser baixada através do link:  
-    https://powerbi.microsoft.com/pt-br/downloads/
+  O Power BI é uma ferramenta fornecida pela Microsoft e somente pode ser instalada na plataforma Windows. Podendo ser baixada através do link:  
+  https://powerbi.microsoft.com/pt-br/downloads/
   
   ![download](/imagens/download.png)
   
