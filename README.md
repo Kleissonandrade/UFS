@@ -25,6 +25,8 @@
   ![install-4](/imagens/install-4.png)
   ### Passo 5
   ![install-5](/imagens/install-5.png)
+  ### Passo 6
+  ![install-6](/imagens/install-6.png)
 
 
   2. teste 1
