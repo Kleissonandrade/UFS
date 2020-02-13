@@ -14,6 +14,19 @@
   ### Passo 1
 
   ![install-1](/imagens/install-1.png)
+
+  ### Passo 2
+
+  ![install-2](/imagens/install-2.png)
+
+  ### Passo 3
+  ![install-3](/imagens/install-3.png)
+  ### Passo 4
+  ![install-4](/imagens/install-4.png)
+  ### Passo 5
+  ![install-5](/imagens/install-5.png)
+
+
   2. teste 1
   3. teste 3
 
