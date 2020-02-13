@@ -58,11 +58,11 @@
 
 ![instaall-6](/imagens/obter-dados-5.png)
 
-[instaall-6](/imagens/obter-home.png)
+![instaall-6](/imagens/obter-dados-6.png)
 
-[instaall-6](/imagens/obter-dados-7.png)
+![instaall-6](/imagens/obter-dados-7.png)
 
-[instaall-6](/imagens/obter-dados-8.png)
+![instaall-6](/imagens/obter-dados-8.png)
 
 
 
