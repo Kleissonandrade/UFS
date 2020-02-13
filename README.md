@@ -29,10 +29,6 @@
   ![install-6](/imagens/install-6.png)
 
 
-  2. teste 1
-  3. teste 3
-
-
 
 ## Conectando ao Banco de dados
 
