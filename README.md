@@ -45,6 +45,20 @@
 
 ### Conectando ao Banco de dados
 
+-------------------------------
+![install-6](/imagens/obter-dados-1.png)
+-------------------------------
+![install-6](/imagens/obter-dados-2.png)
+-------------------------------
+![install-6](/imagens/obter-dados-3.png)
+-------------------------------
+![install-6](/imagens/obter-dados-4.png)
+-------------------------------
+![install-6](/imagens/obter-dados-5.png)
+-------------------------------
+
+
+
 conexão
 
 
