@@ -71,16 +71,16 @@
 
 
 ### Carregando dados
-    Após ter feito a conexão com o banco de dados irá mostrar uma tela onde seram listadas todas as tabelas da base de dados escolhida como segue na ilustração abaixo:
+  Após ter feito a conexão com o banco de dados irá mostrar uma tela onde seram listadas todas as tabelas da base de dados escolhida como segue na ilustração abaixo:
 
-  ![carrega-1](/imagens/obter-dados-5.png)
+![carrega-1](/imagens/obter-dados-5.png)
 
-    Selecione as tabelas que deseja carregar para o seu BI e click em Carregar.
+  Selecione as tabelas que deseja carregar para o seu BI e click em Carregar.
 
-  ![carrega-2](/imagens/obter-dados-7.png)
+![carrega-2](/imagens/obter-dados-7.png)
 
-    Após concluir o processo de carga, seram listadas todas as tabelas assim como as colunas pertencentes a estas na paleta "Campos". Como mostra a figura.
-  ![carrega-3](/imagens/obter-dados-8.png)
+  Após concluir o processo de carga, seram listadas todas as tabelas assim como as colunas pertencentes a estas na paleta "Campos". Como mostra a figura.
+![carrega-3](/imagens/obter-dados-8.png)
 
   Agora, toda sua base de dados esta carregada no PowerBI. Tanto suas tabelas quanto os dados persistidos nelas.
 
