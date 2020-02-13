@@ -100,5 +100,9 @@ Agora basta selecionar as colunas que deseja ter como parâmetros e o PowerBI ir
 
 ### Exportando Gráficos
 
+Segue abaixo a demonstrando como exportar graficos gerados no PowerBI.
+
 ![exportar-1](/imagens/exportar.png)
+
+Exemplo de exortação em PDF.
 ![exportar-2](/imagens/pdf-export.png)
