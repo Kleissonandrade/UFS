@@ -13,19 +13,29 @@
   
   ### Passo 1
 
+  Click em Avançar
+  
   ![install-1](/imagens/install-1.png)
 
   ### Passo 2
+    Click em Instalar
 
   ![install-2](/imagens/install-2.png)
 
   ### Passo 3
+  Click em Avançar
+
   ![install-3](/imagens/install-3.png)
   ### Passo 4
+  Marque a opção Aceito termos do Contrato de Licença e click em Avançar.
+
   ![install-4](/imagens/install-4.png)
   ### Passo 5
+  Aguarde o término da instalação
+
   ![install-5](/imagens/install-5.png)
   ### Passo 6
+  Pronto, o PowerBI foi instalado. Em seguida click em concluir e a aplicação sera inicializada.
   ![install-6](/imagens/install-6.png)
 
 
