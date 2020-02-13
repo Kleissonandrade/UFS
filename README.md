@@ -39,14 +39,13 @@
   ![install-6](/imagens/install-6.png)
 
 
-
 ## Usando PowerBI
 
 ### Primeiros passos
   Ao executar a aplicação do PowerBI, ira aparecer a seguinte tela inicial:
    ![install-6](/imagens/home.png)
 
-  Posteriormente deve deve ser feito o registro gratuito na plataforma.
+  Posteriormente faça o registro gratuito na plataforma.
    ![install-6](/imagens/register.png)
   
   Após ser registrado,você deve fazer login na mesma:
@@ -54,12 +53,19 @@
 
 
 ### Conectando ao Banco de dados
+Click na aba Arquivo da barra de tarefas e selecione a opção Obter Dados. Em seguida irá carregar a tela abaixo:
 
 ![conecta-1](/imagens/obter-dados-1.png)
 
-![conecta-2](/imagens/obter-dados-2.png)
+Selecione a fonte de dados que deseja utilizar e click em conectar. (Nesse caso foi usado o Postgre)
 
-![conecta-3](/imagens/obter-dados-3.png)
+
+![conecta-2](/imagens/obter-dados-2.png)
+Após selecionar o banco. Irá solicitar que seja informado o endereço do servidor (Banco de dados) e o nome do banco. Preencha esses campos e click em "OK".
+
+![conecta-3](/imagens/obter-dados-3.png)]
+
+Em seguida será solicitado o usuário e senha configurados em seu SGBD. Informe estes dados e click em conectar
 
 ![conecta-4](/imagens/obter-dados-4.png)
 
