@@ -45,32 +45,39 @@
 
 ### Conectando ao Banco de dados
 
-![installl-6](/imagens/obter-dados-1.png)
+![conecta-1](/imagens/obter-dados-1.png)
 
-![installl-6](/imagens/obter-dados-2.png)
+![conecta-2](/imagens/obter-dados-2.png)
 
-![installl-6](/imagens/obter-dados-3.png)
+![conecta-3](/imagens/obter-dados-3.png)
 
-![installl-6](/imagens/obter-dados-4.png)
+![conecta-4](/imagens/obter-dados-4.png)
 
 
 ### Carregando dados
 
-![instaall-6](/imagens/obter-dados-5.png)
+![carrega-1](/imagens/obter-dados-5.png)
 
-![instaall-6](/imagens/obter-dados-6.png)
+![carrega-2](/imagens/obter-dados-6.png)
 
-![instaall-6](/imagens/obter-dados-7.png)
+![carrega-3](/imagens/obter-dados-7.png)
 
-![instaall-6](/imagens/obter-dados-8.png)
-
-
+![carrega-4](/imagens/obter-dados-8.png)
 
 
 
-## Gerando Gráficos
 
-Gerar
 
-## Exportando Gráficos
-Exportar
+### Gerando Gráficos
+
+![gera-1](/imagens/gera-1.png)
+![gera-2](/imagens/gera-2.png)
+![gera-3](/imagens/gera-3.png)
+![gera-4](/imagens/gera-4.png)
+
+
+
+### Exportando Gráficos
+
+![exportar-1](/imagens/exportarpng)
+![exportar-2](/imagens/pdf-export.png)
