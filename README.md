@@ -7,6 +7,8 @@
   O Power BI é uma ferramenta fornecida pela Microsoft e somente pode ser instalada na plataforma Windows. Podendo ser baixada através do link:  
   https://powerbi.microsoft.com/pt-br/downloads/
   
+  ![download](/imagens/download-powerbi.png)
+  
   Após download da aplicação, execute como administrador e siga os passos a seguir:
   
   1. teste
