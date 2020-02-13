@@ -42,67 +42,65 @@
 ## Usando PowerBI
 
 ### Primeiros passos
-  Ao executar a aplicação do PowerBI, ira aparecer a seguinte tela inicial:
-![install-6](/imagens/home.png)
+    Ao executar a aplicação do PowerBI, ira aparecer a seguinte tela inicial:
+  ![install-6](/imagens/home.png)
 
-  Posteriormente faça o registro gratuito na plataforma.
-![install-6](/imagens/register.png)
+    Posteriormente faça o registro gratuito na plataforma.
+  ![install-6](/imagens/register.png)
   
-  Após ser registrado,você deve fazer login na mesma:
-![install-6](/imagens/login.png)
+    Após ser registrado,você deve fazer login na mesma:
+  ![install-6](/imagens/login.png)
 
 
 ### Conectando ao Banco de dados
-  Click na aba Arquivo da barra de tarefas e selecione a opção Obter Dados. Em seguida irá carregar a tela abaixo:
+    Click na aba Arquivo da barra de tarefas e selecione a opção Obter Dados. Em seguida irá carregar a tela abaixo:
+  ![conecta-1](/imagens/obter-dados-1.png)
 
-![conecta-1](/imagens/obter-dados-1.png)
+    Selecione a fonte de dados que deseja utilizar e click em conectar. (Nesse caso foi usado o Postgre)
+  ![conecta-2](/imagens/obter-dados-2.png)
 
-  Selecione a fonte de dados que deseja utilizar e click em conectar. (Nesse caso foi usado o Postgre)
+    Após selecionar o banco. Irá solicitar que seja informado o endereço do servidor (Banco de dados) e o nome do banco. Preencha esses campos e click em "OK".
 
+  ![conecta-3](/imagens/obter-dados-3.png)
 
-![conecta-2](/imagens/obter-dados-2.png)
-  Após selecionar o banco. Irá solicitar que seja informado o endereço do servidor (Banco de dados) e o nome do banco. Preencha esses campos e click em "OK".
+    Em seguida será solicitado o usuário e senha configurados em seu SGBD. Informe estes dados e click em conectar.
 
-![conecta-3](/imagens/obter-dados-3.png)
-
-  Em seguida será solicitado o usuário e senha configurados em seu SGBD. Informe estes dados e click em conectar.
-
-![conecta-4](/imagens/obter-dados-4.png)
+  ![conecta-4](/imagens/obter-dados-4.png)
 
 
 ### Carregando dados
-  Após ter feito a conexão com o banco de dados irá mostrar uma tela onde seram listadas todas as tabelas da base de dados escolhida como segue na ilustração abaixo:
+    Após ter feito a conexão com o banco de dados irá mostrar uma tela onde seram listadas todas as tabelas da base de dados escolhida como segue na  ilustração abaixo:
 
-![carrega-1](/imagens/obter-dados-5.png)
+  ![carrega-1](/imagens/obter-dados-5.png)
 
-  Selecione as tabelas que deseja carregar para o seu BI e click em Carregar.
+    Selecione as tabelas que deseja carregar para o seu BI e click em Carregar.
 
-![carrega-2](/imagens/obter-dados-7.png)
+  ![carrega-2](/imagens/obter-dados-7.png)
 
-  Após concluir o processo de carga, seram listadas todas as tabelas assim como as colunas pertencentes a estas na paleta "Campos". Como mostra a figura.
-![carrega-3](/imagens/obter-dados-8.png)
+    Após concluir o processo de carga, seram listadas todas as tabelas assim como as colunas pertencentes a estas na paleta "Campos". Como mostra a figura.
+  ![carrega-3](/imagens/obter-dados-8.png)
 
-  Agora, toda sua base de dados esta carregada no PowerBI. Tanto suas tabelas quanto os dados persistidos nelas.
+    Agora, toda sua base de dados esta carregada no PowerBI. Tanto suas tabelas quanto os dados persistidos nelas.
 
 ### Gerando Gráficos
-  Agora que o PowerBI tem posse de todos so dados necessários para executar sua devida finalidade. Primeiramente deve ser escolhido o tipo de gráfico que deve ser gerado. Como demonstra a iustração abaixo:
+    Agora que o PowerBI tem posse de todos so dados necessários para executar sua devida finalidade. Primeiramente deve ser escolhido o tipo de gráfico que deve ser gerado. Como demonstra a iustração abaixo:
 
-![gera-1](/imagens/gera-1.png)
+  ![gera-1](/imagens/gera-1.png)
 
-  Após selecionar o modelo de gráfico será exibido um "molde" deste, o qual pode ter suas dimenssões(largura e altura) ajustadas.
-![gera-2](/imagens/gera-2.png)
+    Após selecionar o modelo de gráfico será exibido um "molde" deste, o qual pode ter suas dimenssões(largura e altura) ajustadas.
+  ![gera-2](/imagens/gera-2.png)
 
-  Agora basta selecionar as colunas que deseja ter como parâmetros e o PowerBI irá gerar o grafico de acordo com os dados existentes em sua base de dados.
+    Agora basta selecionar as colunas que deseja ter como parâmetros e o PowerBI irá gerar o grafico de acordo com os dados existentes em sua base de dados.
 
-![gera-3](/imagens/gera-3.png)
+  ![gera-3](/imagens/gera-3.png)
 
-![gera-4](/imagens/gera-4.png)
+  ![gera-4](/imagens/gera-4.png)
 
 ### Exportando Gráficos
 
-  Segue abaixo a demonstrando como exportar graficos gerados no PowerBI.
+    Segue abaixo a demonstrando como exportar graficos gerados no PowerBI.
 
-![exportar-1](/imagens/exportar.png)
+  ![exportar-1](/imagens/exportar.png)
 
-  Exemplo de exportação em PDF.
-![exportar-2](/imagens/pdf-export.png)
+    Exemplo de exportação em PDF.
+  ![exportar-2](/imagens/pdf-export.png)
