@@ -45,32 +45,24 @@
 
 ### Conectando ao Banco de dados
 
--------------------------------
-![install-6](/imagens/obter-dados-1.png)
--------------------------------
-![install-6](/imagens/obter-dados-2.png)
--------------------------------
-![install-6](/imagens/obter-dados-3.png)
--------------------------------
-![install-6](/imagens/obter-dados-4.png)
--------------------------------
+![installl-6](/imagens/obter-dados-1.png)
 
+![installl-6](/imagens/obter-dados-2.png)
 
+![installl-6](/imagens/obter-dados-3.png)
 
-
-
+![installl-6](/imagens/obter-dados-4.png)
 
 
 ## Carregando dados
 
-![install-6](/imagens/obter-dados-5.png)
--------------------------------
-[install-6](/imagens/obter-dados-6.png)
--------------------------------
-[install-6](/imagens/obter-dados-7.png)
--------------------------------
-[install-6](/imagens/obter-dados-8.png)
--------------------------------
+![instaall-6](/imagens/obter-dados-5.png)
+
+[instaall-6](/imagens/obter-dados-6.png)
+
+[instaall-6](/imagens/obter-dados-7.png)
+
+[instaall-6](/imagens/obter-dados-8.png)
 
 
 
