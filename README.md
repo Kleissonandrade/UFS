@@ -69,6 +69,9 @@
 -------------------------------
 [install-6](/imagens/obter-dados-7.png)
 -------------------------------
+[install-6](/imagens/obter-dados-8.png)
+-------------------------------
+
 
 
 carragar
