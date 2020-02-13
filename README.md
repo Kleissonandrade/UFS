@@ -54,15 +54,22 @@
 -------------------------------
 ![install-6](/imagens/obter-dados-4.png)
 -------------------------------
-![install-6](/imagens/obter-dados-5.png)
--------------------------------
 
 
 
-conexão
+
+
 
 
 ## Carregando dados
+
+![install-6](/imagens/obter-dados-5.png)
+-------------------------------
+[install-6](/imagens/obter-dados-6.png)
+-------------------------------
+[install-6](/imagens/obter-dados-7.png)
+-------------------------------
+
 
 carragar
 
