@@ -79,5 +79,5 @@
 
 ### Exportando Gráficos
 
-![exportar-1](/imagens/exportarpng)
+![exportar-1](/imagens/exportar.png)
 ![exportar-2](/imagens/pdf-export.png)
