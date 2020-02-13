@@ -63,7 +63,7 @@ Selecione a fonte de dados que deseja utilizar e click em conectar. (Nesse caso 
 ![conecta-2](/imagens/obter-dados-2.png)
 Após selecionar o banco. Irá solicitar que seja informado o endereço do servidor (Banco de dados) e o nome do banco. Preencha esses campos e click em "OK".
 
-![conecta-3](/imagens/obter-dados-3.png)]
+![conecta-3](/imagens/obter-dados-3.png)
 
 Em seguida será solicitado o usuário e senha configurados em seu SGBD. Informe estes dados e click em conectar
 
