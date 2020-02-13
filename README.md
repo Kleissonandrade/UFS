@@ -30,7 +30,20 @@
 
 
 
-## Conectando ao Banco de dados
+## Usando PowerBI
+
+### Primeiros passos
+  Ao executar a aplicação do PowerBI, ira aparecer a seguinte tela inicial:
+   ![install-6](/imagens/home.png)
+
+  Posteriormente deve deve ser feito o registro gratuito na plataforma.
+   ![install-6](/imagens/register.png)
+  
+  Após ser registrado,você deve fazer login na mesma:
+   ![install-6](/imagens/login.png)
+
+
+### Conectando ao Banco de dados
 
 conexão
 
