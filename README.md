@@ -56,7 +56,7 @@
     Click na aba Arquivo da barra de tarefas e selecione a opção Obter Dados. Em seguida irá carregar a tela abaixo:
   ![conecta-1](/imagens/obter-dados-1.png)
 
-    Selecione a fonte de dados que deseja utilizar e click em conectar. (Nesse caso foi usado o Postgre)
+    Selecione a fonte de dados que deseja utilizar e click em conectar. (Nesse caso foi usado o Postgres)
   ![conecta-2](/imagens/obter-dados-2.png)
 
     Após selecionar o banco. Irá solicitar que seja informado o endereço do servidor (Banco de dados) e o nome do banco. Preencha esses campos e click em "OK".
