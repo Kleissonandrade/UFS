@@ -65,24 +65,24 @@ Após selecionar o banco. Irá solicitar que seja informado o endereço do servi
 
 ![conecta-3](/imagens/obter-dados-3.png)
 
-Em seguida será solicitado o usuário e senha configurados em seu SGBD. Informe estes dados e click em conectar
+Em seguida será solicitado o usuário e senha configurados em seu SGBD. Informe estes dados e click em conectar.
 
 ![conecta-4](/imagens/obter-dados-4.png)
 
 
 ### Carregando dados
+Após ter feito a conexão com o banco de dados irá mostrar uma tela onde seram listadas todas as tabelas da base de dados escolhida como segue na ilustração abaixo:
 
 ![carrega-1](/imagens/obter-dados-5.png)
 
-![carrega-2](/imagens/obter-dados-6.png)
+Selecione as tabelas que deseja carregar para o seu BI e click em Carregar.
 
-![carrega-3](/imagens/obter-dados-7.png)
+![carrega-2](/imagens/obter-dados-7.png)
 
-![carrega-4](/imagens/obter-dados-8.png)
+Após concluir o processo de carga, seram listadas todas as tabelas assim como as colunas pertencentes a estas na paleta "Campos". Como mostra a figura.
+![carrega-3](/imagens/obter-dados-8.png)
 
-
-
-
+Agora, toda sua base de dados esta carregada no PowerBI. Tanto suas tabelas quanto os dados persistidos nelas.
 
 ### Gerando Gráficos
 
