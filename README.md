@@ -85,13 +85,18 @@ Após concluir o processo de carga, seram listadas todas as tabelas assim como a
 Agora, toda sua base de dados esta carregada no PowerBI. Tanto suas tabelas quanto os dados persistidos nelas.
 
 ### Gerando Gráficos
+Agora que o PowerBI tem posse de todos so dados necessários para executar sua devida finalidade. Primeiramente deve ser escolhido o tipo de gráfico que deve ser gerado. Como demonstra a iustração abaixo:
 
 ![gera-1](/imagens/gera-1.png)
+
+Após selecionar o modelo de gráfico será exibido um "molde" deste, o qual pode ter suas dimenssões(largura e altura) ajustadas.
 ![gera-2](/imagens/gera-2.png)
+
+Agora basta selecionar as colunas que deseja ter como parâmetros e o PowerBI irá gerar o grafico de acordo com os dados existentes em sua base de dados.
+
 ![gera-3](/imagens/gera-3.png)
+
 ![gera-4](/imagens/gera-4.png)
-
-
 
 ### Exportando Gráficos
 
